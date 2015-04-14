@@ -3,10 +3,10 @@
   <channel>
     <title>blog title</title>
     <description>Really cool blog about ... something</description>
-    <link>http://niklabs.me/contrast</link>
-    <atom:link href="http://niklabs.me/contrastfeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Apr 2015 16:02:12 +0900</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2015 16:02:12 +0900</lastBuildDate>
+    <link>http://hy9012.github.io</link>
+    <atom:link href="http://hy9012.github.iofeed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 14 Apr 2015 16:28:11 +0900</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 16:28:11 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -60,8 +60,8 @@
 
 </description>
         <pubDate>Thu, 11 Sep 2014 07:37:00 +0900</pubDate>
-        <link>http://niklabs.me/example/2014/09/11/example-2.html</link>
-        <guid isPermaLink="true">http://niklabs.me/contrast/example/2014/09/11/example-2.html</guid>
+        <link>http://hy9012.github.io/example/2014/09/11/example-2.html</link>
+        <guid isPermaLink="true">http://hy9012.github.io/example/2014/09/11/example-2.html</guid>
         
         
         <category>example</category>
@@ -119,8 +119,8 @@
 
 </description>
         <pubDate>Thu, 11 Sep 2014 07:37:00 +0900</pubDate>
-        <link>http://niklabs.me/example/2014/09/11/example.html</link>
-        <guid isPermaLink="true">http://niklabs.me/contrast/example/2014/09/11/example.html</guid>
+        <link>http://hy9012.github.io/example/2014/09/11/example.html</link>
+        <guid isPermaLink="true">http://hy9012.github.io/example/2014/09/11/example.html</guid>
         
         
         <category>example</category>
