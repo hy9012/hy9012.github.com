@@ -7,7 +7,7 @@ url: "http://hy9012.github.io"
 baseurl: "" # comment out if in root directory
 
 comments:
-    disqus: "niklasbuschmann"
+    disqus: "pocketeer"
 #    isso: "comments.mysite.org"
 
 style:
