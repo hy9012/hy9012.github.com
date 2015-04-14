@@ -6,14 +6,14 @@
     <meta charset="utf-8">
     
     <meta name="description" content="Really cool blog about ... something">
-    <title> Archive › blog title</title>
-    <link rel="canonical" href="http://hy9012.github.io/archive.html">
+    <title> 서브라임텍스트에 나눔 글꼴 설치 › blog title</title>
+    <link rel="canonical" href="http://hy9012.github.io/sublimetext/2015/04/15/sublimetext_nanum.html">
     <link href="/main.css" rel="stylesheet" type="text/css">
     <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,200italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="blog title &raquo; Feed" href="/feed.xml">
-    
+    <script src="//pocketeer.disqus.com/embed.js" async></script>
     
   </head>
   <body>
@@ -21,7 +21,7 @@
       <h1><a href="/">blog title</a></h1>
       <nav>
         <ul>
-          <li><a href="/">Home</a></li><li><a href="/archive.html" id="selected">Archive</a></li>
+          <li><a href="/">Home</a></li><li><a href="/archive.html">Archive</a></li>
         </ul>
       </nav>
     </header>
@@ -29,23 +29,37 @@
     
     <article>
       <header>
-        <h2><a href="/archive.html">Archive</a></h2>
-        <p></p>
+        <h2><a href="/sublimetext/2015/04/15/sublimetext_nanum.html">서브라임텍스트에 나눔 글꼴 설치</a></h2>
+        <p><time datetime="2015-04-15T07:37:00+09:00">Apr 15, 2015</time> • sublimetext</p>
       </header>
       <div>
+<p><strong>우분투에 나눔 글꼴 설치</strong></p>
+
 <ul>
-  
-
-    
-      <h3>2015</h3>
-    
-
-    <li>April: <a href="/sublimetext/2015/04/15/sublimetext_nanum.html">서브라임텍스트에 나눔 글꼴 설치</a></li>
-  
+  <li>wget http://cdn.naver.com/naver/NanumFont/fontfiles/NanumFont_TTF_ALL.zip</li>
+  <li>unzip NanumFont_TTF_ALL.zip</li>
+  <li>mkfontscale</li>
+  <li>mkfontdir</li>
+  <li>fc-cache -r</li>
 </ul>
+
+<p><strong>서브라임 텍스트 설정</strong></p>
+
+<ul>
+  <li>Preferences -&gt; user에 아래내용 복사</li>
+</ul>
+
+<div class="highlight"><pre><code class="language-json" data-lang="json"><span class="p">{</span>
+	<span class="nt">&quot;font_face&quot;</span><span class="p">:</span><span class="s2">&quot;malgun gothic&quot;</span><span class="p">,</span>
+	<span class="nt">&quot;font_size&quot;</span><span class="p">:</span> <span class="mi">12</span><span class="p">,</span>
+	<span class="nt">&quot;ignored_packages&quot;</span><span class="p">:[</span><span class="s2">&quot;Vintage&quot;</span><span class="p">]</span>
+<span class="p">}</span></code></pre></div>
 
       </div>
       
+      
+      <div id="disqus_thread"></div>
+      <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
       
     </article>
 
