@@ -5,9 +5,71 @@
     <description>Really cool blog about ... something</description>
     <link>http://hy9012.github.io</link>
     <atom:link href="http://hy9012.github.iofeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Apr 2015 16:28:11 +0900</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2015 16:28:11 +0900</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2015 21:52:17 +0900</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 21:52:17 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Example3</title>
+        <description>&lt;p&gt;&lt;strong&gt;Basic&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Neque porro &lt;em&gt;quisquam&lt;/em&gt; est, qui &lt;strong&gt;dolorem&lt;/strong&gt; ipsum, quia &lt;strong&gt;&lt;em&gt;dolor&lt;/em&gt;&lt;/strong&gt; sit, amet, &lt;a href=&quot;http://cjdns.info/&quot;&gt;consectetur&lt;/a&gt;, adipisci velit.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lorem&lt;/li&gt;
+  &lt;li&gt;ipsum&lt;/li&gt;
+  &lt;li&gt;test&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;dolor&lt;/li&gt;
+  &lt;li&gt;sit&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;First Header&lt;/th&gt;
+      &lt;th&gt;Second Header&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Table Cell&lt;/td&gt;
+      &lt;td&gt;Table Cell&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Table Cell&lt;/td&gt;
+      &lt;td&gt;Table Cell&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Blockquote&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety.&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;Benjamin Franklin&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Code&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-java&quot; data-lang=&quot;java&quot;&gt;&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;HelloWorld&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;String&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;args&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;Hello, World&amp;quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 16 Apr 2015 07:37:00 +0900</pubDate>
+        <link>http://hy9012.github.io/example/2015/04/16/example-3.html</link>
+        <guid isPermaLink="true">http://hy9012.github.io/example/2015/04/16/example-3.html</guid>
+        
+        
+        <category>example</category>
+        
+      </item>
     
       <item>
         <title>Example 2</title>
