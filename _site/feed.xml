@@ -5,8 +5,8 @@
     <description>Really cool blog about ... something</description>
     <link>http://hy9012.github.io</link>
     <atom:link href="http://hy9012.github.iofeed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 14 Apr 2015 22:41:12 +0900</pubDate>
-    <lastBuildDate>Tue, 14 Apr 2015 22:41:12 +0900</lastBuildDate>
+    <pubDate>Tue, 14 Apr 2015 22:42:35 +0900</pubDate>
+    <lastBuildDate>Tue, 14 Apr 2015 22:42:35 +0900</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,7 +28,7 @@
 &lt;/ul&gt;
 
 &lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-json&quot; data-lang=&quot;json&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-	&lt;span class=&quot;nt&quot;&gt;&amp;quot;font_face&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;malgun gothic&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+	&lt;span class=&quot;nt&quot;&gt;&amp;quot;font_face&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;(설정할 글꼴)&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;quot;font_size&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
 	&lt;span class=&quot;nt&quot;&gt;&amp;quot;ignored_packages&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:[&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;Vintage&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;

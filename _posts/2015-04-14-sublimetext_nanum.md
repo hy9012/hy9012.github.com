@@ -18,7 +18,7 @@ categories: sublimetext
 {% highlight json %}
 
 {
-	"font_face":"malgun gothic",
+	"font_face":"(설정할 글꼴)",
 	"font_size": 12,
 	"ignored_packages":["Vintage"]
 }
