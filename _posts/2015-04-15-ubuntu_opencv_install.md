@@ -48,17 +48,17 @@ categories: ubuntu
 
 
 > $ git clone https://github.com/Itseez/opencv.git
->
+> 
 > $ cd opencv
->
+> 
 > $ mkdir release
->
+> 
 > $ cd release
->
+> 
 > $ cmake -D CMAKE_BUILD_TYPE=RELEASE -D CMAKE_INSTALL_PREFIX=/usr/local ..
->
+> 
 > $ make (설치 실패시 sudo make해보기)
->
+> 
 > $ sudo make install
 
 #Trouble shooting
