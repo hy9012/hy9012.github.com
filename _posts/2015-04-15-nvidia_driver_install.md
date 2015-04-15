@@ -4,11 +4,11 @@ date:   2015-04-15 09:16:00
 categories: example
 ---
 
-**NVIDIA X Server Settings 설치**
+#NVIDIA X Server Settings 설치
 
 * 우분투 소프트웨어 센터에서 NVIDIA X Server Settings 검색해서 설치
 
-**NVIDIA 그래픽카드 드라이버 설치**
+#NVIDIA 그래픽카드 드라이버 설치
 
 > $ sudo add-apt-repository ppa:xorg-edgers/ppa
 >
