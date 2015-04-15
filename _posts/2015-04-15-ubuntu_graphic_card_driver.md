@@ -6,7 +6,7 @@ categories: example
 
 **NVIDIA X Server Settings 설치**
 
-* 우분투 소프트웨어 센터에서 NVIDIA X Server Sttings 검색해서 설치
+* 우분투 소프트웨어 센터에서 NVIDIA X Server Settings 검색해서 설치
 
 **NVIDIA 그래픽카드 드라이버 설치**
 
