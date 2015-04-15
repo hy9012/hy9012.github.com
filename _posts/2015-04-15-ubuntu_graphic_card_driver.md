@@ -9,7 +9,7 @@ categories: example
 * 우분투 소프트웨어 센터에서 NVIDIA X Server Sttings 검색해서 설치
 
 **NVIDIA 그래픽카드 드라이버 설치**
-  # sudo add-apt-repository ppa:xorg-edgers/ppa
-  # sudo apt-get update
-  # sudo apt-get install nvidia-349 (CUDA설치를 위해서는 346이상 설치)
-  # 재부팅
+  sudo add-apt-repository ppa:xorg-edgers/ppa
+  sudo apt-get update
+  sudo apt-get install nvidia-349 (CUDA설치를 위해서는 346이상 설치)
+  재부팅
