@@ -6,6 +6,18 @@ categories: ubuntu
 
 #Ubuntu가 최신상태인지 확인
 
+#1
+
+##2
+
+###3
+
+####4
+
+#####5
+
+######6
+
 -------------
 
 > $ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
