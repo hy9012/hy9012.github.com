@@ -10,7 +10,10 @@ categories: example
 
 **NVIDIA 그래픽카드 드라이버 설치**
 
-1. sudo add-apt-repository ppa:xorg-edgers/ppa
-2. sudo apt-get update 
-3. sudo apt-get install nvidia-349 (CUDA설치를 위해서는 346이상 설치)
-4. 재부팅
+> $ sudo add-apt-repository ppa:xorg-edgers/ppa
+>
+> $ sudo apt-get update 
+>
+> $ sudo apt-get install nvidia-349 (CUDA설치를 위해서는 346이상 설치)
+>
+> 재부팅
