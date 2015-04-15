@@ -6,11 +6,10 @@ categories: ubuntu
 
 #Ubuntu가 최신상태인지 확인
 
---
 > $ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
 
 #의존관계 설치하기
---
+
 * Build tools
 
 > $ sudo apt-get install build-essential cmake
@@ -41,7 +40,7 @@ categories: ubuntu
 > $ sudo apt-get install ant default-jdk
 
 #OpenCV 설치하기
---
+
 > $ git clone https://github.com/Itseez/opencv.git
 >
 > $ cd opencv
@@ -57,7 +56,7 @@ categories: ubuntu
 > $ sudo make install
 
 #trouble shooting
---
+
 * Python에서 안될 때
 
 > $ sudo apt-get install python-opencv
