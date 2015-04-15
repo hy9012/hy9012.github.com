@@ -15,5 +15,5 @@ categories: ubuntu
 > $ sudo apt-get update 
 >
 > $ sudo apt-get install nvidia-349 (CUDA설치를 위해서는 346이상 설치)
->
-> 재부팅
+
+* 재부팅
