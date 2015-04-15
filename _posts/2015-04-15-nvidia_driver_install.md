@@ -1,7 +1,7 @@
 ---
 title:  "우분투에서 그래픽카드 설치하기"
 date:   2015-04-15 09:16:00
-categories: example
+categories: ubuntu
 ---
 
 #NVIDIA X Server Settings 설치
