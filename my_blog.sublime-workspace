@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2015-04-14-sublimetext_nanum.md",
+			"settings":
+			{
+				"buffer_size": 418,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/workspace/github/hy9012.github.com/_posts/2015-04-15-nvidia_driver_install.md",
+		"/E/workspace/github/hy9012.github.com/_posts/2015-04-15-ubuntu_opencv_install.md",
+		"/E/workspace/github/hy9012.github.com/_config.yml",
+		"/E/workspace/github/hy9012.github.com/_posts/2015-04-14-sublimetext_nanum.md",
+		"/E/workspace/github/hy9012.github.com/.gitignore",
+		"/C/Users/kim/AppData/Local/Temp/scp50593/home/odroid/Program/HElib/src/calcHE.cpp",
+		"/C/Users/kim/AppData/Local/Temp/scp47607/home/odroid/Program/HElib/src/Test_Input.cpp",
+		"/C/Users/kim/AppData/Local/Temp/scp47310/home/odroid/Program/HElib/src/Test_IO.cpp",
+		"/C/Users/kim/AppData/Local/Temp/scp47232/home/odroid/Program/HElib/src/Test_Output.cpp",
+		"/C/Users/kim/AppData/Local/Temp/scp17655/home/odroid/Program/HElib/src/iotest.txt",
+		"/E/Program/Keti 플랫폼 설치파일/mongodb script.txt",
+		"/C/Users/kim/AppData/Local/Temp/scp47023/home/odroid/Program/HElib/src/cgauss.cpp",
+		"/C/Program Files (x86)/mosquitto/readme-windows.txt",
+		"/C/Users/kim/Google 드라이브/대학원/스터디/컴퓨터 보안/스터디 노트/1주차 스터디 숙제.txt",
+		"/C/Users/kim/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/유틸리티/OS/VMware/Serial.txt",
+		"/C/Users/kim/Google 드라이브/설정파일/vs2013 professional/vs2013 cd key.txt",
+		"/C/Users/kim/Downloads/Office key.txt",
+		"/F/한글 2010/한컴오피스2010 cdkey.txt",
+		"/C/Users/kim/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/kim/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/kim/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2015-04-14-sublimetext_nanum.md",
+					"settings":
+					{
+						"buffer_size": 418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
