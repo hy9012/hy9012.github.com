@@ -1,5 +1,5 @@
 ---
-title:  "서브라임텍스트에 나눔 글꼴 설치"
+title:  "우분투에서 서브라임텍스트에 나눔 글꼴 설치"
 date:   2015-04-14 22:37:00
 categories: sublimetext
 ---
