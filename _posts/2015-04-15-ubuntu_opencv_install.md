@@ -10,6 +10,7 @@ categories: ubuntu
 
 > $ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
 
+</br>
 #의존관계 설치하기
 
 -----------
@@ -42,6 +43,8 @@ categories: ubuntu
 
 > $ sudo apt-get install ant default-jdk
 
+</br>
+
 #OpenCV 설치하기
 
 ------------
@@ -61,7 +64,9 @@ categories: ubuntu
 >
 > $ sudo make install
 
-#trouble shooting
+</br>
+
+#Trouble shooting
 
 ---------------
 
