@@ -25,16 +25,16 @@ categories: mongodb
 설정파일에 들어가는 파일들은 미리 만들어 놓아야 함
 *mongod.cfg
 
-> ## 데이터베이스 폴더
+> \# 데이터베이스 폴더
 > dbpath = C:\mongodb\data
 >
-> ## mongdb 포트
+> \# mongdb 포트
 >port = 27017
 >
-> ## 로그 파일
+> \# 로그 파일
 > logpath = C:\mongodb\logs\mongo.log
 >
-> ## 웹 관리 사용
+> \# 웹 관리 사용
 > rest = true
 
 #6. 서비스 등록하기
@@ -49,5 +49,5 @@ categories: mongodb
 
 > C:\mongodb\bin\mongod.exe -f C:\mongodb\mongod.cfg -remove
 
-** 참고 **
+# 참고
 * http://gyuha.tistory.com/470#recentTrackback
