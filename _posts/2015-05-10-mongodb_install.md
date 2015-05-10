@@ -54,4 +54,4 @@ categories: mongodb
 > C:\mongodb\bin\mongod.exe -f C:\mongodb\mongod.cfg -remove
 
 # 참고
-* http://gyuha.tistory.com/470#recentTrackback
+> http://gyuha.tistory.com/470#recentTrackback
